@@ -1,6 +1,3 @@
-¡Claro que sí! Aquí tienes el **README.md** traducido y adaptado al español, con un tono profesional, técnico y "super potente", ideal para impresionar a tu profesor y dejar documentado el proyecto a nivel empresarial.
-
----
 
 # ⚽ Panini World Cup 2026 - Rastreador de Álbum
 
